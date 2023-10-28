@@ -1,0 +1,4 @@
+tqdm
+addict
+pycocotools >= 2.0.5
+opencv-python-headless
